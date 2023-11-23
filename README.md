@@ -2,14 +2,14 @@
 
 This repository contains interview preparation questions and answers for data science job preparation. Topics that are covered have been listed below.
 
-1.1) Python \n
-1.2) SQL \n
-1.3) Git \n
-3) Logistic regression
-4) Linear Regression
-5) Naive Bayes
-6) KNN
-7) SVM
-8) Decision Tree
-9) RandomForest
-10) Neural Network.
+1) Python 
+2) SQL 
+3) Git
+4) Logistic regression
+5) Linear Regression
+6) Naive Bayes
+7) KNN
+8) SVM
+9) Decision Tree
+10) RandomForest
+11) Neural Network.
